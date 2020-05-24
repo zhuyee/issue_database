@@ -1,0 +1,2 @@
+# issue_database
+issue_database，存储个人博客blog_self_talking的库
